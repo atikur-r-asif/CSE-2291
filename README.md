@@ -45,7 +45,6 @@ It allows management of:
 - **MySQL**
 - **CSS**
 - **HTML**
-- 
 
 
 ## Project Structure
