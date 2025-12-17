@@ -75,7 +75,6 @@ It allows management of:
 srms/
 │
 ├── db.php
-├── index.php
 ├── login.php
 ├── logout.php
 │
