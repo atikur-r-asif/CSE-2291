@@ -33,6 +33,7 @@ It allows management of:
 
 
 ## Features
+```bash
 ## Admin Features
 --Secure login system
 --Add / update / delete student information
