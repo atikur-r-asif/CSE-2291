@@ -1,11 +1,13 @@
 # Student Result Management System
 
 
+
 ## Department Information
 **Department of Computer Science and Engineering**  
 **Course Code:** CSE 2291  
 **Course Title:** Software Development ii (Database Programming)  
 **Project Title:** Student Result Management System (SRMS).  
+
 
 
 ## Submitted To
@@ -15,11 +17,13 @@ Department of Computer Science and Engineering
 Northern University Bangladesh  
 
 
+
 ## Submitted By
 - **Maymuna Anjum Shefath** — Id: 41230201245
 - **Huraira Jim** — Id: 41230201272  
 - **Md. Atikur Rahman** — Id: 41230201274
 - **Hasibur Hassan** — Id: 41240102084
+
 
 
 ## Project Overview
@@ -32,6 +36,7 @@ It allows management of:
 - 
 
 
+
 ## Features
 -**Admin Features**
 --Secure login system
@@ -41,16 +46,19 @@ It allows management of:
 --Generate mark sheets
 --View student results
 --Change password & logout
+
 -**Student Features**
 --Login with Student ID
 --View semester-wise results
 --View and download mark sheet
 --Secure logout
+
 -**System Features**
 --Role-based access (Admin / Student)
 --MySQL database integration
 --GPA & Grade calculation
 --Simple and clean UI
+
 
 
 ## Technologies Used
@@ -59,6 +67,7 @@ It allows management of:
 - **CSS**
 - **HTML**
 - **JavaScript**
+
 
 
 ## Project Structure
