@@ -74,18 +74,20 @@ It allows management of:
 ```bash
 srms/
 │
-├── db.php
-├── login.php
+├── database.php
+├── index.php           ui page(login+register)
+├── login.php           login process(logic)
+├── register.php        register process
 ├── logout.php
 │
 ├── admin/
-│   ├── dashboard.php
+│   ├── admin_dashboard.php
 │   ├── add_student.php
 │   ├── add_result.php
 │   └── view_students.php
 │
 ├── student/
-│   ├── dashboard.php
+│   ├── student_dashboard.php
 │   └── view_result.php
 │
 ├── css/
