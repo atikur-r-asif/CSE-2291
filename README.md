@@ -33,8 +33,7 @@ It allows management of:
 
 
 ## Features
--Admin Features
-
+## Admin Features
 --Secure login system
 --Add / update / delete student information
 --Add / update / delete course information
@@ -43,13 +42,13 @@ It allows management of:
 --View student results
 --Change password & logout
 
--Student Features
+## Student Features
 --Login with Student ID
 --View semester-wise results
 --View and download mark sheet
 --Secure logout
 
--System Features
+## System Features
 --Role-based access (Admin / Student)
 --MySQL database integration
 --GPA & Grade calculation
