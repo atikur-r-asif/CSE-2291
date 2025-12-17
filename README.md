@@ -5,7 +5,7 @@
 **Department of Computer Science and Engineering**  
 **Course Code:** CSE 2291  
 **Course Title:** Software Development ii (Database Programming)  
-**Project Title:** Student Result Management System.  
+**Project Title:** Student Result Management System (SRMS).  
 
 
 ## Submitted To
@@ -33,11 +33,11 @@ It allows management of:
 
 
 ## Features
-- 
-- 
-- 
-- 
-- 
+- Role-based access (Admin / Student)
+- MySQL database integration
+- GPA & Grade calculation
+- Simple and clean UI
+- Secure password handling
 
 
 ## Technologies Used
