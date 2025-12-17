@@ -48,7 +48,7 @@ It allows management of:
 
 
 ## Project Structure
-|
+```bash
 srms/
 |
 |
