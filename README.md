@@ -50,6 +50,7 @@ It allows management of:
 ## Project Structure
 srms/
 |
+
 ├── db.php
 ├── index.php
 ├── login.php
