@@ -33,11 +33,27 @@ It allows management of:
 
 
 ## Features
-- Role-based access (Admin / Student)
-- MySQL database integration
-- GPA & Grade calculation
-- Simple and clean UI
-- Secure password handling
+-Admin Features
+
+--Secure login system
+--Add / update / delete student information
+--Add / update / delete course information
+--Enter and update student marks
+--Generate mark sheets
+--View student results
+--Change password & logout
+
+-Student Features
+--Login with Student ID
+--View semester-wise results
+--View and download mark sheet
+--Secure logout
+
+-System Features
+--Role-based access (Admin / Student)
+--MySQL database integration
+--GPA & Grade calculation
+--Simple and clean UI
 
 
 ## Technologies Used
