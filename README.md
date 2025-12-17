@@ -50,12 +50,23 @@ It allows management of:
 ## Project Structure
 ```bash
 srms/
-|
-|
-|---db.php
-|---index.php
-|---login.php
-|---logout.php
-|
-|
-|
+│
+├── db.php
+├── index.php
+├── login.php
+├── logout.php
+│
+├── admin/
+│   ├── dashboard.php
+│   ├── add_student.php
+│   ├── add_result.php
+│   └── view_students.php
+│
+├── student/
+│   ├── dashboard.php
+│   └── view_result.php
+│
+├── css/
+│   └── style.css
+│
+└── database.sql
